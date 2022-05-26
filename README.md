@@ -5,7 +5,7 @@
 This project was part of Home-Assignment  
 Build a simple website that will be our clients database.
 
-
+Link useing netlify https://zippy-syrniki-e5aa2f.netlify.app
 ## Available Scripts
 ### React - Client side
  `npm install`
